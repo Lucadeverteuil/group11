@@ -10,4 +10,6 @@ The dataset selected for this project is created by Sumaia P. and is posted on [
 
 ### **Project Topic**
 
+### Luca Deverteuil: 
+This data set is really interesting because I am a huge crime drama nerd. With this analytical project I hope to be able to find what time of the year is worse with crime, and how serious of a crime is during these peaks. I have always heard that during the Holidays there is more crime. So with these stats I can see if this is true. I am also curious if this influx in crime also brings an influx in serious crime, meaning offense against another person and breaking and entering. I believe that The amount of serious crime will decrease during holiday periods however I think that petty crime like thief and mischief will increase. My belief on this is because people during these times are intoxicated and make decisions they probably should not have. As well as people are away on vacation so it would be easy to steal vehicles when people are not at their houses. 
 Text
